@@ -15,7 +15,7 @@ description: 文章金句。
  2、string函数的参数若是一个整型数字，它将该整型数字转换成ASCII码值等于该整形数字的字符，当且仅当data为[]byte类型时string(data)。<br>
 
 
-摘自[7天学会geecache](https://geektutu.com/post/geecache.html)，如有侵犯，请联系本人，此篇文章只作为学习记录
+
 
 
 

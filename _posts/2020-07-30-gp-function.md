@@ -1,6 +1,6 @@
 ---
 layout: post
-title: go-函数总结
+title: go-函数总结(持续更新)
 date: 2020-07-30
 categories: 函数总结
 tags: [go,函数总结]

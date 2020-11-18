@@ -63,6 +63,5 @@ func GetInstanceD() *SingletonD{ <br>
 	}) <br>
 	return instanceD <br>
 } <br>
-#### 后续 ####
-目前暂时实现了 聊天室，独立聊天，请期待下一期websocket
+
 摘自[gin框架搭建](https://studygolang.com/subject/194)，如有侵犯，请联系本人，此篇文章只作为学习记录

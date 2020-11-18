@@ -28,6 +28,7 @@ description: 文章金句。
  模式可以互相组合,例如Fprintf,Sprintf,eg:<br>
  默认格式化，返回字符串:fmt.Printf("name: %s", "coco") -----> name23 [115 104 111 119 32 109 101] <br>
  
+
 ###Scan###
 - Scan 方法的几种模式， 所有方法都返回 写入字节数(n)及错误(err) <br>
 - 基础模式: [name] Scan 将输入值写入参数中 <br>
@@ -37,6 +38,8 @@ description: 文章金句。
 - 换行模式: [name]ln 以换行符号做读取结束 例如: scanln <br>
 
 
+ <h2>sync包</h2>
+ ### once ###
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: go-单列模式(singleton)
+title: [设计模式]go-单列模式(singleton)
 date: 2020-10-10
 categories: go
 tags: [singleton,golang]

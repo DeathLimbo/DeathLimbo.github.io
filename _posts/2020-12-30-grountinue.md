@@ -3,7 +3,7 @@ layout: post
 title: go-goroutine 
 date: 2021-1-22 
 categories: arr 
-tags: [go,arr,map,slice]
+tags: [go,goroutine]
 description: 文章金句。
 ---
 

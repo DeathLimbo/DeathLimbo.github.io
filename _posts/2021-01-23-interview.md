@@ -32,10 +32,11 @@ Go提供了map类型，但是我们知道，map类型的key是不能重复的，
 [set实现](https://gitee.com/sixnine/interview/blob/master/set/set.go)
 ### 11、实现消息队列（多生产者，多消费者） ###
 队列是一种数据结构，先进先出的理论，我们可以基于channel实现 多消费者多生产者
-![img](https://deathlimbo.github.io/img/mq/1.jpg)
+![img](https://deathlimbo.github.io/img/mq/1.png)
 ![img](https://deathlimbo.github.io/img/mq/2.jpg)
 ![img](https://deathlimbo.github.io/img/mq/3.jpg)
-[set实现](https://gitee.com/sixnine/interview/blob/master/MQ/mq.go)
-### 11、实现消息队列（多生产者，多消费者） ###
+[消息队列实现](https://gitee.com/sixnine/interview/blob/master/MQ/mq.go)
+### 12、大文件排序 ###
+### 13、基本排序，哪些是稳定的 ###
 
 

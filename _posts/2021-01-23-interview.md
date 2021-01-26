@@ -164,7 +164,8 @@ channel的底层数据结构式：<br>
  3、一个互斥锁<br>
  channel基于csp理论的提出，它提供了一种通信机制，可以从一个goroutine向另一个goroutine发送消息，他分为缓冲以及无缓冲状态。可以使用make来创建，配合select来使用<br>
 
-
+[github上优秀的go面试题总结](https://github.com/lifei6671/interview-go)
+[参看文献1](https://www.jianshu.com/p/6bf41d9dcb6e)
 
 
 
